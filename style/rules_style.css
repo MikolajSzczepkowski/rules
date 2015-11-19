@@ -52,6 +52,9 @@
 	box-shadow: 0 0 0 6px #363636;
 	cursor: pointer;
 }
+.bottom-inner-wrapper{
+	padding: 0 0 10px 0;
+}
 .profile-menu div{
 	margin: 0 0 7px 0;
 	background: #e43f3f;
@@ -61,6 +64,11 @@
 }
 .profile-menu .active{
 	background: #363636;
+}
+.text-box{
+	margin-bottom: 5px;
+	background: #f4f4f4;
+	border-left: 3px solid #e43f3f;
 }
 .match-info{
 	background: #363636;
